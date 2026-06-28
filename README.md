@@ -78,10 +78,3 @@ nexus-events/
 └── firebase.json
 ```
 
-## Screenshots
-
-<!-- Add your own screenshots here after deploying -->
-
-## License
-
-MIT
